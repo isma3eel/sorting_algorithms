@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-void swapp(int *xp, int *yp);					//swapping two indices in an array
+void swapp(int *xp, int *yp);				//swapping two indices in an array
 void print_array(int arr[], int size);			
 void selection_sort(int arr[], int size);		//apply selection sort algorithm
 void bubble_sort(int arr[], int size);			//apply bubble sort algorithm
